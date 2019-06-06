@@ -1,6 +1,6 @@
-# vue_live_chat
+# Lets Chat
 
-> A Vue.js project
+This project is a live and realtime chat application. It has been created using firebase and Vue.js.
 
 ## Build Setup
 
@@ -19,3 +19,10 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## Features
+
+- Vue.js used
+- Real time group chat possible
+- Firebase used for Backend 
+- Router blocker used
